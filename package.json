@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Mounir2626/test-partage#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
